@@ -1,1 +1,2 @@
 Et si l'on racontait une nouvelle histoire
+La decouverte d'un gestionnaire de version qui m'aurait bien change la vie pendant ma these
